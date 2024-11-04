@@ -3,7 +3,7 @@ function init(){
 
   function ShowMeText(){
     var textbox = document.getElementById('entryinput');
-    document.getElementById('textoutput').innerHTML = textbox.value;
+    document.getElementById("Nicholas Thomas" +'textoutput').innerHTML = textbox.value;
     alert(textbox.value);
   }
 
